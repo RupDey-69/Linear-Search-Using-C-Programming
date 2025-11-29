@@ -1,1 +1,3 @@
 # Linear-Search-Using-C-Programming
+Author:Rup Dey <br>
+This Linear Search For Beginner For Easy To Understand or All Of Uss...
